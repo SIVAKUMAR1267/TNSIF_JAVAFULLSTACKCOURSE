@@ -1,4 +1,4 @@
-package com.tnsif.packagesandaccessmodifiers;
+package packagesandaccessmodifiers;
 
 import java.io.BufferedReader;
 import java.io.IOException;
